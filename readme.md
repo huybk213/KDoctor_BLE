@@ -7,4 +7,5 @@
 + Program softdevice
 + Program bootloader
 + Copy app_dfu_package.zip to mobile, and use NRF Toolbox in playstore to transfer firmware, must not program app.hex directly from programer or debugger.
+
 HuyTV
